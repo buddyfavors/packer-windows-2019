@@ -39,8 +39,7 @@
     {
       "type": "vagrant",
       "keep_input_artifact": true,
-      "output": "{{.Provider}}.box",
-      "vagrantfile_template": "vagrantfile-windows.template"
+      "output": "{{.Provider}}.box"
     }
   ]
 }
